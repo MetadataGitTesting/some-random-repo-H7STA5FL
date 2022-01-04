@@ -1,0 +1,22 @@
+name: olene.jenkins
+description: User fork
+version: 1
+author: genaro.rowe@gmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: genaro.rowe@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 21:21:49'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Joseph_Zemlak:
+    name: Joseph_Zemlak
+    description: Really solid info
+    createdAt: '2022-01-04 21:21:49'
+    author: genaro.rowe@gmail.com
